@@ -1,0 +1,41 @@
+body {
+    background: rgb(224,134,174);
+    background: radial-gradient(circle, rgba(224,134,174,1) 0%, rgba(125,169,222,1) 100%); 
+}
+
+h1 {
+    font-family: Impact;
+    font-size: 40px;
+}
+
+.profile {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+table {
+    font-family: "Lucida Sans";
+    font-size: 25px;
+  }
+  
+td {
+    color: black;
+  }
+
+footer{
+    height: 50px;
+    text-align: center;
+    margin-top: 60px;
+}
+
+footer ul li {
+    display: inline-block; 
+    list-style: none;
+    padding: 30px;
+}
+
+footer ul li a img {
+    width: 40px;
+    height: 40px;
+}
